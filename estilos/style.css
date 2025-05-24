@@ -48,10 +48,20 @@ section#login > div#imagem {
     background: #5f2c82 url('../imagens/pexels-luri-2563484.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 200px;
 }
 
 section#login > #formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2em;
+
+}
+
+div#formulario > p {
+    font-size: 0.9em;
 }
